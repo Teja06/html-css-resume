@@ -1,0 +1,60 @@
+body{
+	background-color: #B8ADAB 
+}
+.resume{
+	display:flex;
+	border:2%;
+	flex-direction: row;
+}
+.section1{
+	background-color: #6A6564;
+	margin:1%;
+	height: 500%;
+}
+h1{
+	font-size: 60px;
+}
+.details{
+	display: block;
+    font-size: 20px;
+    color: #37D3C3 ;
+    text-indent: 5%;
+}
+.profile{
+	height: 250px;
+	width: 250px;
+	border: 10px
+	border-radius: 25%
+}
+.section{
+	background-color: #857F7E  
+}
+#education{
+	border-collapse: collapse;
+	border-radius: 40px;
+}
+#education th,#education td{
+	border:2px solid #050202; 
+	text-align: left;
+	padding: 5px;
+}
+#education th{
+	background-color: #F85AF3 ;
+	color: #050004;
+	text-align: center;
+}
+h4{
+	font-size: 20px;
+    color: #392FD5;
+    background-color: #F36B3F;
+    display: inline-block;
+}
+h2{
+	text-indent: 4%
+}
+a:visited{
+	color:#F239AF;
+}
+a:hover{
+  background-color: #6FEBED;
+}
